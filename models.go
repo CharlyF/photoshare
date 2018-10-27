@@ -2,7 +2,7 @@ package photoshare
 
 import (
 	"bytes"
-	"code.google.com/p/go.crypto/bcrypt"
+	"golang.org/x/crypto/bcrypt"
 	"crypto/rand"
 	"database/sql"
 	"github.com/coopernurse/gorp"

@@ -1,7 +1,7 @@
 package photoshare
 
 import (
-	"code.google.com/p/graphics-go/graphics"
+	"github.com/BurntSushi/graphics-go/graphics"
 	"errors"
 	"github.com/dchest/uniuri"
 	"github.com/disintegration/gift"
