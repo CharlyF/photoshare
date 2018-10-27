@@ -1,6 +1,6 @@
 package main
 
-import "github.com/danjac/photoshare"
+import "github.com/CharlyF/photoshare"
 
 func main() {
 	photoshare.Serve()
